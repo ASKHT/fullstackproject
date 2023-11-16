@@ -1,3 +1,7 @@
 console.log("hello world");
 what day is it.
-console.log("hello");
+
+for(int i=0;i<n;i++){
+print(hellow);
+}
+
